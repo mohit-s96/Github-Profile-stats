@@ -1,5 +1,7 @@
 # Github-Profile-stats
-[Live version] (https://msx47.github.io/Github-Profile-stats)
+
+[Live Version](https://msx47.github.io/Github-Profile-stats)
+
 Git hub profile stats with Vanilla JS and Bootstrap
 
 ## About
